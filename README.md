@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vinayak-Bhandage
-- 👀 I’m interested in Gaming Industry
+- 👀 I’m interested in Game Development.
 - 🌱 I’m currently learning Godot, AI/ML.
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach through linkedIn: https://www.linkedin.com/in/vinayak-bhandage/
